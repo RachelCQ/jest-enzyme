@@ -1,5 +1,15 @@
 body{
+  font-size: 18px;
+  line-height: 22px;
+  color: black;
   margin: 0;
   padding: 0;
   background: #707174;
+}
+
+.main{
+  width: 100%;
+  margin: 50px auto 80px;
+  max-width: 980px;
+  padding: 0 10px;
 }
